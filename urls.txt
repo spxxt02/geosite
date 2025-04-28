@@ -1,0 +1,2 @@
+gfw,https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
+ads,https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
