@@ -1,2 +1,2 @@
-gfw,https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
+ads1,https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/build/rule/domain.txt
 ads,https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
